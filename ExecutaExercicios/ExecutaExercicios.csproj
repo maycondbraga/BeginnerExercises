@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Exercicios.Estrutura.Array.Matriz\Exercicios.Estrutura.Array.Matriz.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Array.Vetor\Exercicios.Estrutura.Array.Vetor.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Classes\Exercicios.Estrutura.Classes.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Condicional\Exercicios.Estrutura.Condicional.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Conjuntos\Exercicios.Estrutura.Conjuntos.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Membros.Estaticos\Exercicios.Estrutura.Membros.Estaticos.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Properties\Exercicios.Estrutura.Properties.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Repetitiva.For\Exercicios.Estrutura.Repetitiva.For.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Repetitiva.While\Exercicios.Estrutura.Repetitiva.While.csproj" />
+    <ProjectReference Include="..\Exercicios.Estrutura.Sequencial\Exercicios.Estrutura.Sequencial.csproj" />
+  </ItemGroup>
+
+</Project>
